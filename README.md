@@ -34,7 +34,7 @@ Me baseei neste vídeo no YouTube: [COMO CRIAR UM BOT PARA WHATSAPP USANDO Node.
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/alexandrebpetri/Projects.git
+git clone https://github.com/alexandrebpetri/Whatsapp-Bot.git
 cd Whatsapp-Bot
 ```
 
@@ -160,7 +160,7 @@ I based it on this video on YouTube: [COMO CRIAR UM BOT PARA WHATSAPP USANDO Nod
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/alexandrebpetri/Projects.git
+git clone https://github.com/alexandrebpetri/Whatsapp-Bot.git
 cd Whatsapp-Bot
 ```
 
